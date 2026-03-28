@@ -1,0 +1,2 @@
+# Easy-statistics-plugin
+vibes
